@@ -1,0 +1,29 @@
+{
+    "name": "Trash_Adults_Rounds_Pack",
+    "description": "It's the Trash Adults Round Pack. With things that we like",
+    "version_number": "0.0.1",
+    "website_url": "https://trashadults.lol",
+    "dependencies": [
+        "willis81808-MMHook-1.0.0",
+        "BepInEx-BepInExPack_ROUNDS-5.4.1901",
+        "willuwontu-AttackLevelPatch-0.0.0",
+        "willuwontu-RespawnPatch-1.0.6",
+        "Pykess-LegRaycastersPatch-0.0.0",
+        "Pykess-PlayerJumpPatch-0.0.2",
+        "willis81808-UnboundLib-3.2.13",
+        "Pykess-ModdingUtils-0.4.8",
+        "Pykess-CardChoiceSpawnUniqueCardPatch-0.1.10",
+        "willuwontu-BlockForcePatch-1.0.1",
+        "TeamDK-ZeroGBulletPatch-1.1.0",
+        "Senyksia-ResetAttackCooldownPatch-1.0.1",
+        "Root-RegenerationPatch-0.0.0",
+        "Root-GravityPatch-0.0.0",
+        "willuwontu-StopShootingYoureDead-0.0.0",
+        "Pykess-GunUnblockablePatch-0.0.0",
+        "Pykess-DemonicPactPatch-0.0.0",
+        "Pykess-TeleportPatch-0.0.1",
+        "Pykess-TemporaryStatsPatch-0.0.2",
+        "RoundsModding-Grow_Patch-0.0.0",
+        "RoundsModding-AllThePatch-1.0.0"
+    ]
+}
